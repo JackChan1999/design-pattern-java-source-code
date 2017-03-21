@@ -2,7 +2,7 @@
 
 Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关的文章，涵盖了七个面向对象设计原则和24个设计模式（23个GoF设计模式 +  简单工厂模式），为了方便大家学习，现将所有文章的进行了整理，方便大家下载阅读，希望能给各位带来帮助！
 
-- 在线阅读：https://alleniverson.gitbooks.io/java-degisn-patterns/index.html
+- 在线阅读：https://alleniverson.gitbooks.io/java-degisn-patterns/content
 - PDF、Mobi、ePub下载：https://www.gitbook.com/book/alleniverson/java-degisn-patterns/details
 - 源码下载：https://github.com/JackChen1999/design-pattern-java-source-code
 - 课件下载：http://www.chinasa.info/download/DP-Slides.rar
@@ -18,6 +18,8 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 # 目录
 
 * [前言](README.html)
+* [UML建模技术](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2030%20UML/UML建模技术.md)
+* [深入浅出UML类图](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2030%20UML/深入浅出UML类图.md)
 * [从招式与内功谈起——设计模式概述](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2001%20Overview/从招式与内功谈起——设计模式概述.html)
 * [面向对象设计原则](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2002%20Opp%20Principles/面向对象设计原则.html)
 * [工厂三兄弟之简单工厂模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2003%20Simple%20Factory/工厂三兄弟之简单工厂模式.html)
